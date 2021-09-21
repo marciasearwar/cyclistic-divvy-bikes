@@ -27,7 +27,7 @@ In this phase, queries were created to uncover trends that were highlighted in t
 
 5. Share Phase
 
-Visualisations were created using Tableau.  These will be published but are included in the powerpoint presentation.
+Visualisations were created using Tableau.  Published here https://public.tableau.com/views/google_cyclistic_divvy_bikes/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link and included in the powerpoint presentation.
 
 
 6. Act Phase
